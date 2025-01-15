@@ -11,3 +11,5 @@ Features
 	•	Interactive Chat Interface: Chat with the AI character, with conversation history displayed.
 	•	Session Persistence: Stores session data, such as the character name, description, and conversation history, ensuring continuity within a session.
 	•	Streamlit UI: Simple and user-friendly interface built with Streamlit.
+
+[Watch the demo video](./PretendAI%20Demo.mov)
